@@ -2,7 +2,7 @@
 
 This project analyses and forecasts gold prices using time series methods in R.
 
-(Upload the HTML file first, then link it here)
+https://safa-16.github.io/TimeSeriesProject/
 
 ## Overview
 - Data sourced from Yahoo Finance
